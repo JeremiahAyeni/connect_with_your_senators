@@ -1,7 +1,5 @@
 <?php
 
-include('./DB.php');
-
 class SMS
 {
     private $api;

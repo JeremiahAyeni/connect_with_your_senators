@@ -1,10 +1,9 @@
 <?php
 
-use spearhead\Classes\SMS;
 
 include('./includes/header.php');
 require('./class/DB.php');
-
+require('./class/SMS.php');
 
 $senators = new DB();
 $getSenators = $senators->getValues();
