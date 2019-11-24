@@ -30,6 +30,7 @@ if (isset($_POST['sendsms'])) {
     <div class="col-lg-12 text-center">
       <h1 class="mt-5">Connect With Your Senators in a Click</h1>
       <p class="lead">A project intiated by @unicodeveloper (Designed by @ayenijeremiaho)</p>
+	  <small><b>Link to project: <a href=https://github.com/JeremiahAyeni/connect_with_your_senators>HERE</a></b></small>
       <br> <br>
     </div>
 
