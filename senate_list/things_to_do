@@ -1,0 +1,6 @@
+Display in a modal or whichever way, all details of the senator, constituency, image, and also possibly latest news, gotten via an API or RSS..(just something)
+Allow Users to login, register, so the database has the senderID by default and not having to alway input it
+Allow users send anonymous email from this platform using the email icon
+
+....
+will be updated with time
